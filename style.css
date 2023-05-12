@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body.page1 {
+  background-color: green;
+}
+body.page2{
+  background-color: gold;
+}
+body.page3{
+  background-color:aqua;
+}
